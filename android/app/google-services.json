@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "339235252447",
+    "project_id": "autodrone-c47a4",
+    "storage_bucket": "autodrone-c47a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339235252447:android:c5cfe2eb67d71e4eda216a",
+        "android_client_info": {
+          "package_name": "com.autodrone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339235252447-pa3q97fiav3p5dmqua8asv8ietbgche8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autodrone",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "339235252447-04a6a6jo07tdi40sipr2430b6l2vqf6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkM6nXWVuP7ytxmNquWupje-fM6B7-3HA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339235252447-04a6a6jo07tdi40sipr2430b6l2vqf6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
